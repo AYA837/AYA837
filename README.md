@@ -7,7 +7,7 @@ I'm a third-year **Artificial Intelligence** student at the **Higher School of A
 ## 🎓 Academic
 
 - 🎓 Third-year Artificial Intelligence student at the **Higher School of Artificial Intelligence**.
-- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, **Computer Vision**, **Robotics**, and **Autonomous Systems**.
+- 🤖 Passionate about **Artificial Intelligence**, **Machine Learning** , **Robotics**, and **Autonomous Systems**.
 - 📚 Constantly exploring emerging technologies through personal projects, research, and continuous learning.
 - 🌱 Currently learning **Mobile Development** using the **Flutter** framework.
 
@@ -20,7 +20,7 @@ I'm a third-year **Artificial Intelligence** student at the **Higher School of A
 - Robotics and mechatronics projects.
 - Hardware/software integration.
 - Sensor interfacing and embedded systems.
-- Rapid prototyping and intelligent system development.
+
 
 ### 🎨 UI/UX Design
 - Designing clean and user-friendly web interfaces.
